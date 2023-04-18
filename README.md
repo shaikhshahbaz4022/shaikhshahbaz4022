@@ -1,25 +1,29 @@
 ### Hi there 👋
+
+<div align="center">
+  <img alt="Coder GIF" height=200  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
+</div>
+
+
 # 💫 About Me:
-🔭 I’m currently working on building real-time web applications using modern technologies like Node.js, React, and MongoDB.<br><br>🌱 I’m currently learning advanced backend development techniques with Node.js, and exploring serverless architectures using AWS Lambda and API Gateway.<br><br>👯 I’m looking to collaborate on open source projects related to web development and real-time applications.<br><br>🤔 I’m looking for help with improving my knowledge of cloud computing and distributed systems.<br><br>💬 Ask me about my experience with building scalable and performant web applications, or my favorite coding tools and resources.<br><br>📫 You can reach me at shaikhshahbaz4022@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/shahbaz-shaikh<br><br>😄 Pronouns: He/him.<br><br>⚡ Fun fact: I love traveling and exploring new cultures, and I'm always on the lookout for my next adventure! -->
+🔭 I’m currently working on building real-time web applications using modern technologies like Node.js, React, and MongoDB.<br><br>🌱 I’m currently learning advanced backend development techniques with Node.js, and exploring serverless architectures using AWS Lambda and API Gateway.<br><br>👯 I’m looking to collaborate on open-source projects related to web development and real-time applications.<br><br>🤔 I’m looking for help with improving my knowledge of cloud computing and distributed systems.<br><br>💬 Ask me about my experience building scalable and performant web applications, or my favourite coding tools and resources.<br><br>📫 You can reach me at shaikhshahbaz4022@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/shahbaz-shaikh<br><br>😄 Pronouns: He/him.<br><br>⚡ Fun fact: I love travelling and exploring new cultures, and I'm always looking for my next adventure! -->
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahbazshaikh4022) 
+<div align="center">
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shaikhshahbaz4022&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shaikhshahbaz4022&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhshahbaz4022&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shaikhshahbaz4022&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=shaikhshahbaz4022&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shaikhshahbaz4022&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhshahbaz4022&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shaikhshahbaz4022&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shaikhshahbaz4022&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shaikhshahbaz4022&icon=1&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  </div>
