@@ -1,4 +1,7 @@
 <div align="center">
+  
+
+  
 
 ### Hi there 👋
 
@@ -7,6 +10,23 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F34F7&width=435&lines=Hi+!+I+Am+Shahbaz+Shaikh;I+Am+a+Full+Stack+Web+developer)](https://git.io/typing-svg)
+  
+    
+  <br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shahbazshaikh4022/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="shaikhshahbaz4022@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  
+  <a href="https://wa.me/8805994022" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
+  
 
 
 # 💫 About Me:
@@ -16,6 +36,7 @@
   
   
 ## 🌐 Socials:
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahbazshaikh4022) 
 
 # 💻 Tech Stack:
