@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Hi there 👋
 
 <div align="center">
@@ -10,7 +12,7 @@
 # 💫 About Me:
 🔭 I’m currently working on building real-time web applications using modern technologies like Node.js, React, and MongoDB.<br><br>🌱 I’m currently learning advanced backend development techniques with Node.js, and exploring serverless architectures using AWS Lambda and API Gateway.<br><br>👯 I’m looking to collaborate on open-source projects related to web development and real-time applications.<br><br>🤔 I’m looking for help with improving my knowledge of cloud computing and distributed systems.<br><br>💬 Ask me about my experience building scalable and performant web applications, or my favourite coding tools and resources.<br><br>📫 You can reach me at shaikhshahbaz4022@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/shahbaz-shaikh<br><br>😄 Pronouns: He/him.<br><br>⚡ Fun fact: I love travelling and exploring new cultures, and I'm always looking for my next adventure! -->
 
-<div align="center">
+
   
   
 ## 🌐 Socials:
