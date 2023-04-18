@@ -10,6 +10,10 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F34F7&width=435&lines=Hi+!+I+Am+Shahbaz+Shaikh;I+Am+a+Full+Stack+Web+developer)](https://git.io/typing-svg)
+
+# 💫 About Me:
+
+📖 I’m currently learning Node.js<br>🙋🏻‍♂️ Feel free to ask me about HTML, CSS, and JavaScript!<br>📧 Feel free to reach me at : shaikhshahbaz4022@gmail.com<br>📄 Check out my [Resume](https://drive.google.com/file/d/18YruthNnkt_vGGuaWPg_JDWwC2UTBNBt/view?usp=share_link)<br>🏷️ Check out my [Portfolio](https://shaikhshahbaz4022.github.io/)<br>
   
     
   <br clear="both">
@@ -29,7 +33,7 @@
   
 
 
-# 💫 About Me:
+
 🔭 I’m currently working on building real-time web applications using modern technologies like Node.js, React, and MongoDB.<br><br>🌱 I’m currently learning advanced backend development techniques with Node.js, and exploring serverless architectures using AWS Lambda and API Gateway.<br><br>👯 I’m looking to collaborate on open-source projects related to web development and real-time applications.<br><br>🤔 I’m looking for help with improving my knowledge of cloud computing and distributed systems.<br><br>💬 Ask me about my experience building scalable and performant web applications, or my favourite coding tools and resources.<br><br>📫 You can reach me at shaikhshahbaz4022@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/shahbaz-shaikh<br><br>😄 Pronouns: He/him.<br><br>⚡ Fun fact: I love travelling and exploring new cultures, and I'm always looking for my next adventure! -->
 
 
