@@ -4,6 +4,8 @@
   <img alt="Coder GIF" height=200  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F34F7&width=435&lines=Hi+!+I+Am+Shahbaz+Shaikh;I+Am+a+Full+Stack+Web+developer)](https://git.io/typing-svg)
+
 
 # 💫 About Me:
 🔭 I’m currently working on building real-time web applications using modern technologies like Node.js, React, and MongoDB.<br><br>🌱 I’m currently learning advanced backend development techniques with Node.js, and exploring serverless architectures using AWS Lambda and API Gateway.<br><br>👯 I’m looking to collaborate on open-source projects related to web development and real-time applications.<br><br>🤔 I’m looking for help with improving my knowledge of cloud computing and distributed systems.<br><br>💬 Ask me about my experience building scalable and performant web applications, or my favourite coding tools and resources.<br><br>📫 You can reach me at shaikhshahbaz4022@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/shahbaz-shaikh<br><br>😄 Pronouns: He/him.<br><br>⚡ Fun fact: I love travelling and exploring new cultures, and I'm always looking for my next adventure! -->
