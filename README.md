@@ -13,7 +13,9 @@
 
 # 💫 About Me:
 
-  📖 I’m currently learning Node.js<br>🙋🏻‍♂️ Feel free to ask me about HTML, CSS, and JavaScript!<br>📧 Feel free to reach me at : shaikhshahbaz4022@gmail.com<br>📄 Check out my [Resume](https://drive.google.com/file/d/18YruthNnkt_vGGuaWPg_JDWwC2UTBNBt/view?usp=share_link)<br>🏷️ Check out my [Portfolio](https://shaikhshahbaz4022.github.io)<br>
+  📖 I’m currently learning Node.js<br>🙋🏻‍♂️ Feel free to ask me about HTML, CSS, and JavaScript!<br>📧 Feel free to reach me at : shaikhshahbaz4022@gmail.com<br>📄 Check out my [Resume](https://drive.google.com/file/d/18YruthNnkt_vGGuaWPg_JDWwC2UTBNBt/view?usp=share_link)<br>🏷️ Check out my 
+  <a href= "https://shaikhshahbaz4022.github.io">Portfolio</a>
+  <br>
 
   
     
